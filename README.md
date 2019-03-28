@@ -15,6 +15,7 @@
 - [Front End Development](#front-end-development)
 - [Back End Development](#back-end-development)
 - [Data Science](#data-science)
+  - [Jupyter](#jupyter)
 - [Infrastructure](#infrastructure)
 - [Other](#other)
 
@@ -43,6 +44,14 @@
 ## Front End Development
 ## Back End Development
 ## Data Science
+
+### Jupyter
+- [Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
+- [Extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html): Collapsible headings, snippets, autoreload, code folding, hide all input, variable inspector, etc.
+- [Widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html):  Interactive GUIs.
+- [ipytest: unit tests in notebooks](https://pypi.org/project/ipytest/)
+- [tqdm - nice simple progress bar](https://github.com/tqdm/tqdm#ipython-jupyter-integration)
+
 ## Infrastructure
 ## Other
 
