@@ -24,6 +24,7 @@
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+- [Your Basic Go](https://yourbasic.org/golang/): Guides, tutorials, cheat sheets, etc.
 
 ### JavaScript
 ### JSON
@@ -39,9 +40,6 @@
 ## Development Environment
 
 ### Git
-- [Git Style Guide](https://github.com/agis/git-style-guide)
-- [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines)
-
 ## Front End Development
 ## Back End Development
 ## Data Science
