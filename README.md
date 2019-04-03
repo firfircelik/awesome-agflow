@@ -19,7 +19,7 @@
   - [Jupyter](#jupyter)
 - [Infrastructure](#infrastructure)
 - [Other](#other)
-
+    - [Design](#design)
 
 ## Programming Languages
 
@@ -59,6 +59,9 @@
 
 ## Infrastructure
 ## Other
+
+### Design
+- [Data Oriented Design](https://github.com/dbartolini/data-oriented-design)
 
 ## Contribute
 
