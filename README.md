@@ -19,7 +19,7 @@
   - [Jupyter](#jupyter)
 - [Infrastructure](#infrastructure)
 - [Other](#other)
-
+    - [Data Oriented Design](#data-oriented-design)
 
 ## Programming Languages
 
