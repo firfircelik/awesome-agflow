@@ -60,6 +60,9 @@
 ## Infrastructure
 ## Other
 
+### Design
+- [Data Oriented Design](https://github.com/dbartolini/data-oriented-design)
+
 ## Contribute
 
 Contributions welcome! Just a send PR with your suggestions or create an issue!
