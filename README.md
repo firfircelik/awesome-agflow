@@ -15,6 +15,7 @@
 - [Front End Development](#front-end-development)
 - [Back End Development](#back-end-development)
 - [Data Science](#data-science)
+  - [Data Science Interview](#data-science-interview)
   - [Jupyter](#jupyter)
 - [Infrastructure](#infrastructure)
 - [Other](#other)
@@ -45,6 +46,9 @@
 ## Front End Development
 ## Back End Development
 ## Data Science
+
+### Data Science Interview
+- [Aryng’s Analytical Aptitude Assessment](https://aryng.com/aryngs-analytical-aptitude-assessment/): Easily assess your fit for a data-driven job or an analytics career.
 
 ### Jupyter
 - [Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
