@@ -25,6 +25,7 @@
 
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
+- [Gopher Reading List](https://github.com/enocom/gopher-reading-list): A curated selection of blog posts on Go.
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Your Basic Go](https://yourbasic.org/golang/): Guides, tutorials, cheat sheets, etc.
 - [High Performance Go](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html): Workshop notes.
