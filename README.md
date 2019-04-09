@@ -18,6 +18,9 @@
   - [Data Science Interview](#data-science-interview)
   - [Jupyter](#jupyter)
 - [Infrastructure](#infrastructure)
+  - [Docker](#docker)
+  - [Drone](#drone)
+  - [Kubernetes](#kubernetes)
 - [Other](#other)
     - [Design](#design)
 
@@ -59,6 +62,16 @@
 - [tqdm - nice simple progress bar](https://github.com/tqdm/tqdm#ipython-jupyter-integration)
 
 ## Infrastructure
+
+### Docker
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+
+### Drone
+- [Awesome Drone](https://github.com/drone/awesome-drone)
+
+### Kubernetes
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
 ## Other
 
 ### Design
