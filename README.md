@@ -32,6 +32,7 @@
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Your Basic Go](https://yourbasic.org/golang/): Guides, tutorials, cheat sheets, etc.
 - [High Performance Go](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html): Workshop notes.
+- [Go Performance book](https://github.com/dgryski/go-perfbook): Best practices for writing high-performance Go code.
 
 ### JavaScript
 ### JSON
