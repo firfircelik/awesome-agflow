@@ -5,7 +5,8 @@
 ## Contents
 - [Programming Languages](#programming-languages)
   - [Go](#go)
-  - [Javascript](#javascript)
+  - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
   - [Python](#python)
   - [Shell](#python)
   - [SQL](#sql)
@@ -21,6 +22,7 @@
   - [Docker](#docker)
   - [Drone](#drone)
   - [Kubernetes](#kubernetes)
+  - [PostgreSQL](#postgresql)
 - [Other](#other)
     - [Design](#design)
 
@@ -35,7 +37,9 @@
 - [Go Performance book](https://github.com/dgryski/go-perfbook): Best practices for writing high-performance Go code.
 
 ### JavaScript
-### JSON
+
+### TypeScript
+- [TypeScript Deep Dive](https://github.com/basarat/typescript-book)
 
 ### Python
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) - Highly regarded Python best practices guide.
@@ -72,6 +76,10 @@
 
 ### Kubernetes
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+### PostgreSQL
+- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
+- [PostgreSQL Exercises](https://pgexercises.com/)
 
 ## Other
 
