@@ -35,6 +35,7 @@
 - [Your Basic Go](https://yourbasic.org/golang/): Guides, tutorials, cheat sheets, etc.
 - [High Performance Go](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html): Workshop notes.
 - [Go Performance book](https://github.com/dgryski/go-perfbook): Best practices for writing high-performance Go code.
+- [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 
 ### JavaScript
 
