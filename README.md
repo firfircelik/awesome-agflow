@@ -36,6 +36,7 @@
 - [High Performance Go](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html): Workshop notes.
 - [Go Performance book](https://github.com/dgryski/go-perfbook): Best practices for writing high-performance Go code.
 - [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
+- [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 
 ### JavaScript
 
