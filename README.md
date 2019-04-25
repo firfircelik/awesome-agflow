@@ -24,7 +24,7 @@
   - [Kubernetes](#kubernetes)
   - [PostgreSQL](#postgresql)
 - [Other](#other)
-    - [Design](#design)
+  - [Design](#design)
 
 ## Programming Languages
 
@@ -54,6 +54,8 @@
 ## Development Environment
 
 ### Git
+- [How to write good commit messages](https://github.com/RomuloOliveira/commit-messages-guide)
+
 ## Front End Development
 ## Back End Development
 ## Data Science
