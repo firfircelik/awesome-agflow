@@ -61,6 +61,7 @@
 ## Front End Development
 ## Back End Development
 ## Data Science
+- [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet): A cheat sheet for data science (e.g. ai, big data, deep learning)
 
 ### Data Science Interview
 - [Aryng’s Analytical Aptitude Assessment](https://aryng.com/aryngs-analytical-aptitude-assessment/): Easily assess your fit for a data-driven job or an analytics career.
