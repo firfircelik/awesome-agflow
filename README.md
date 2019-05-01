@@ -37,6 +37,7 @@
 - [Go Performance book](https://github.com/dgryski/go-perfbook): Best practices for writing high-performance Go code.
 - [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 - [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 ### JavaScript
 
