@@ -38,6 +38,7 @@
 - [Idiomatic Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
 - [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Go 101](https://go101.org/article/101.html): Go 101 is a book focusing on Go syntax/semantics and all kinds of details.
 
 ### JavaScript
 
