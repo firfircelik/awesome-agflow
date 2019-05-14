@@ -60,6 +60,7 @@
 - [Awesome Git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things.
 - [First Aid Git](http://firstaidgit.io): A searcheable collection of most frequently asked Git questions.
 - [Git power tools for daily use](https://nvie.com/posts/git-power-tools/) A collection of tools to make git daily use easier
+- [Rebase in depth](https://git-rebase.io/)
 
 ## Front End Development
 ## Back End Development
