@@ -46,7 +46,7 @@
 - [TypeScript Deep Dive](https://github.com/basarat/typescript-book)
 
 ### Python
-- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) - Highly regarded Python best practices guide.
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/): Highly regarded Python best practices guide.
 
 ### Shell
 ### SQL
@@ -59,7 +59,7 @@
 - [How to write good commit messages](https://github.com/RomuloOliveira/commit-messages-guide)
 - [Awesome Git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things.
 - [First Aid Git](http://firstaidgit.io): A searcheable collection of most frequently asked Git questions.
-- [Git power tools for daily use](https://nvie.com/posts/git-power-tools/) A collection of tools to make git daily use easier
+- [Git power tools for daily use](https://nvie.com/posts/git-power-tools/): A collection of tools to make git daily use easier
 - [Rebase in depth](https://git-rebase.io/)
 
 ## Front End Development
@@ -73,7 +73,7 @@
 ### Jupyter
 - [Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 - [Extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html): Collapsible headings, snippets, autoreload, code folding, hide all input, variable inspector, etc.
-- [Widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html):  Interactive GUIs.
+- [Widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html): Interactive GUIs.
 - [ipytest: unit tests in notebooks](https://pypi.org/project/ipytest/)
 - [tqdm - nice simple progress bar](https://github.com/tqdm/tqdm#ipython-jupyter-integration)
 
@@ -91,9 +91,10 @@
 ### PostgreSQL
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
 - [PostgreSQL Exercises](https://pgexercises.com/)
-- [Don't do this](https://wiki.postgresql.org/wiki/Don't_Do_This) A collection of MUST NOTs for PostgresSQL development
+- [Don't do this](https://wiki.postgresql.org/wiki/Don't_Do_This): A collection of MUST NOTs for PostgresSQL development
 
 ## Other
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws): Laws, Theories, Principles and Patterns that developers will find useful. 
 
 ### Design
 - [Data Oriented Design](https://github.com/dbartolini/data-oriented-design)
