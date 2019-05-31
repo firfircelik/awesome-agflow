@@ -54,6 +54,7 @@
 
 
 ## Development Environment
+- [The Twelve-Factor App](https://12factor.net/)
 
 ### Git
 - [How to write good commit messages](https://github.com/RomuloOliveira/commit-messages-guide)
@@ -78,9 +79,11 @@
 - [tqdm - nice simple progress bar](https://github.com/tqdm/tqdm#ipython-jupyter-integration)
 
 ## Infrastructure
+- [Servers for Hackers](https://serversforhackers.com/)
 
 ### Docker
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+- [Container Best Practices](http://docs.projectatomic.io/container-best-practices/)
 
 ### Drone
 - [Awesome Drone](https://github.com/drone/awesome-drone)
@@ -95,6 +98,7 @@
 
 ## Other
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws): Laws, Theories, Principles and Patterns that developers will find useful. 
+- [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters): A curated list of awesome newsletters.
 
 ### Design
 - [Data Oriented Design](https://github.com/dbartolini/data-oriented-design)
